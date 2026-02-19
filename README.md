@@ -12,7 +12,7 @@
 
 Repositorio para subir todas las guias y Desafios de esta materia.
 
-Cada rama tendrá un proyecto Android independiente correspondiente a la semana o la guia de trabajo.
+Cada rama tendrá un proyecto de Java Framework independiente correspondiente a la semana o la guia de trabajo.
 
 ## Estructura
 

@@ -1,5 +1,4 @@
 package sv.edu.udb.service;
-import org.springframework.boot.data.jpa.test.autoconfigure.DataJpaTest;
 import jakarta.persistence.EntityNotFoundException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
